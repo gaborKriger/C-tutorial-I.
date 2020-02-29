@@ -11,6 +11,9 @@ namespace Tutorial_I
             uint i = 2;
             Console.WriteLine(i);
 
+            int k = 2;
+            Console.WriteLine(k);
+
             Console.WriteLine(uint.MinValue);
             Console.WriteLine(uint.MaxValue);
             Console.WriteLine(int.MinValue);
